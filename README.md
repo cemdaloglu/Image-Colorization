@@ -9,5 +9,5 @@ In the project, we will train our algorithms to convert each pixel of grayscale 
 Main purpose of this project is to observe if grayscale images can be perfectly colorized. We will try to achieve our goal by implementing three different Convolutional Neural Network (CNN) algorithms which are Vanilla, Resnet and U-Net. After the implementation of all three algorithms, Vanilla CNN will be considered as baseline and the performance of other two algorithms will be compared according to the baseline. For the sake of performance, transfer learning method will be used in Resnet and U-Net algorithms.
 Until 〖15〗^th of November, preprocessing of the image data will be done. Compatible pre-trained weights will be searched. Finally, Vanilla CNN algorithm will be implemented.
 
-References
-[1]	Shetty, S.,2018. Image Colorization. [online] Kaggle.com. Available at: <https://www.kaggle.com/shravankumar9892/image-colorization> [Accessed 23 October 2020].
+#References
+-	Shetty, S.,2018. Image Colorization. [online] Kaggle.com. Available at: <https://www.kaggle.com/shravankumar9892/image-colorization> [Accessed 23 October 2020].
